@@ -1,9 +1,16 @@
 #include <stdio.h>
-int main(void)
-/* Main will print Programming is like building a multilingual puzzle if all is okay.Returns 0 if all goes well otherwise returns non-zero
- */
-{
-   puts("\"Programming is like building a multilingual puzzle");
-   return (0);
 
-}
+/**
+ * main - prints the phrase "Programming is like building a multilingual puzzle
+ * Return: 0 if exited properly, non-zero otherwise
+ */
+
+int main(void)
+
+{
+
+		puts("\"Programming is like building a multilingual puzzle");
+
+			return (0);
+
+}I
