@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main prints the stated sentence
  * return 0 if exited well
