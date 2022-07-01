@@ -13,7 +13,7 @@ int main(void)
 	for (c = 'a'; c <= 'z'; c++)
 	{
 		putchar(c);
-		if( c == 'e' || 'q')
+		if (c == 'e' && 'q')
 			continue;
 	}
 	putchar('\n');
