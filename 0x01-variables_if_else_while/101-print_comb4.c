@@ -5,7 +5,7 @@
  *
  * Return: Always(success)
  */
-int man(void)
+int main(void)
 {
 	int c, i, k;
 
