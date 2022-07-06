@@ -15,5 +15,5 @@ int print_last_digit(int n)
 		l = -l;
 	p = '0' + 1;
 	_putchar(p);
-	return (l)
+	return (l);
 }
