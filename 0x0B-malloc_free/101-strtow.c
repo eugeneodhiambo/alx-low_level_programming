@@ -47,6 +47,7 @@ void util(char **words, char *str)
 {
 	int i, j, start, flag;
 	i = j = flag = 0;
+
 	while (str[i])
 	{
 		if (flag == 0 && str[i] != ' ')
