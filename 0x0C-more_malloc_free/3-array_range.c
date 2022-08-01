@@ -5,11 +5,8 @@
 
 
 /**
-
- * *array_range - creates an array of integers
-
+ * array_range - creates an array of integers
  * @min: minimum range of values stored
-
  * @max: maximum range of values stored and number of elements
  * Return: pointer to the new array
  */
